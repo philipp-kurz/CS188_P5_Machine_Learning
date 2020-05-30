@@ -3,3 +3,10 @@ Implemented different neural network models (supervised learning) for different 
 
 
 ![188_p5a](https://user-images.githubusercontent.com/54779918/83336683-a0df7200-a2b5-11ea-9ee8-f751924f23d5.gif)
+
+
+
+
+![188_p5b](https://user-images.githubusercontent.com/54779918/83336724-19463300-a2b6-11ea-899d-4e7dad9894a5.gif)
+
+
