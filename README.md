@@ -8,7 +8,7 @@ Trained a neural network with one hidden layer and ReLU activation function to f
 
 ---
 
-Hand-written digit classification using a neural network with two hidden layers.
+Hand-written digit classification using a neural network with two hidden layers. Eventually reaches accurcacy of 98%.
 
 ![188_p5b](https://user-images.githubusercontent.com/54779918/83336724-19463300-a2b6-11ea-899d-4e7dad9894a5.gif)
 
